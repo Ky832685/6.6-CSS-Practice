@@ -1,0 +1,43 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+
+img {
+  width:550px;
+  position: absolute;
+  left: 650px;
+ 
+  
+  }
+h1 {
+  color:orange;
+}
+
+body {
+  background-color:gray;
+}
+
+body {
+  color:aqua;
+}
+
+a {
+  color: hotpink;
+  text-decoration: none;
+}
+
+a:hover {
+  background-color: black;
+  color: white;
+}
+
+
+h1 {
+  font-size: 40px;
+}
+
+
+p {
+  font-size: 54px;
+}
